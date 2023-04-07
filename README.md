@@ -1,4 +1,4 @@
-<h1 style="text-align=center" Hi there 👋 </h1>
+# Hi there 👋
 
 
 **camilytang/camilytang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
